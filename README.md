@@ -1,3 +1,5 @@
+## [Streamlit ∙ nn-recruitment-project-warmup ∙ main ∙ streamlit_app.py](https://yrazec-nn-recruitment-project-warmup-streamlit-app-cgcb2l.streamlit.app/)
+
 # A public recruitment warm-up project
 A project that will serve as a recruitment application. Why warming up? This is the first time I have used [Streamlit](https://streamlit.io/) service. I needed to do a small project that will show me how to use this site (merging the project with GitHub and local implementation).
 
