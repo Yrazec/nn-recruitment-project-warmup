@@ -5,7 +5,7 @@ A project that will serve as a recruitment application. Why warming up? This is 
 In [requirements.txt](https://github.com/Yrazec/nn-recruitment-project/blob/main/requirements.txt) you can find list of dependencies that will be necessary to run the project.
 
 # Importants
-- The project is not an independent application that can be run from the CLI. The project works closely with [Streamlit](https://streamlit.io/) service. A link to work with LIVE version of this project can be found here: [nn-recruitment-project ∙ main ∙ streamlit_app.py](https://yrazec-nn-recruitment-project-streamlit-app-n0sziz.streamlitapp.com/).
+- The project is not an independent application that can be run from the CLI. The project works closely with [Streamlit](https://streamlit.io/) service. A link to work with LIVE version of this project can be found here: [nn-recruitment-project-warmup ∙ main ∙ streamlit_app.py](https://yrazec-nn-recruitment-project-warmup-streamlit-app-cgcb2l.streamlit.app/).
 - The project is a short, warm-up implementation, no magic happens here, and no ML/AI/DL functionalities are used.
 
 ## Structure
